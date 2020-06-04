@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on よろず日記</title>
-    <link>https://tach1.net/categories/</link>
-    <description>Recent content in Categories on よろず日記</description>
+    <title>hugo on よろず日記</title>
+    <link>https://tach1.net/categories/hugo/</link>
+    <description>Recent content in hugo on よろず日記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 04 Jun 2020 23:48:17 +0900</lastBuildDate>
     
-	<atom:link href="https://tach1.net/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tach1.net/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>hugo</title>
-      <link>https://tach1.net/categories/hugo/</link>
+      <title>投稿テスト</title>
+      <link>https://tach1.net/posts/my-first-post/</link>
       <pubDate>Thu, 04 Jun 2020 23:48:17 +0900</pubDate>
       
-      <guid>https://tach1.net/categories/hugo/</guid>
+      <guid>https://tach1.net/posts/my-first-post/</guid>
       <description></description>
     </item>
     

@@ -4,14 +4,42 @@
   
   <url>
     <loc>https://tach1.net/categories/</loc>
+    <lastmod>2020-06-04T23:48:17+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tach1.net/categories/hugo/</loc>
+    <lastmod>2020-06-04T23:48:17+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tach1.net/posts/</loc>
+    <lastmod>2020-06-04T23:48:17+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://tach1.net/tags/</loc>
+    <lastmod>2020-06-04T23:48:17+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tach1.net/tags/test1/</loc>
+    <lastmod>2020-06-04T23:48:17+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tach1.net/tags/test2/</loc>
+    <lastmod>2020-06-04T23:48:17+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://tach1.net/</loc>
+    <lastmod>2020-06-04T23:48:17+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tach1.net/posts/my-first-post/</loc>
+    <lastmod>2020-06-04T23:48:17+09:00</lastmod>
   </url>
   
 </urlset>
